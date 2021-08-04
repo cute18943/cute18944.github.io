@@ -1,0 +1,26 @@
+.a{
+    position:absolute;
+    top:0px;
+    left:0px;
+
+}
+
+.b{
+    position:absolute;
+    top:300px;
+    left:0px;
+
+}
+
+.c{
+    position:absolute;
+    top:600px;
+    left:0px;
+
+}
+
+.wrap {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
